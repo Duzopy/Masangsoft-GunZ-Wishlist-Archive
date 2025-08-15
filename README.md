@@ -1,3 +1,5 @@
+Wishlist: https://store.steampowered.com/app/3139440/GunZ_The_Duel/
+
 | Date       | Total Wishlist | Added That Day |
 |:-----------|---------------:|---------------:|
 | 2024-11-01 |         40,227 |              - |
