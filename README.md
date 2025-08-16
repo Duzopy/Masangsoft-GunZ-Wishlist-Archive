@@ -1,4 +1,9 @@
-Wishlist: https://store.steampowered.com/app/3139440/GunZ_The_Duel/
+Wishlist: https://store.steampowered.com/app/3139440/GunZ_The_Duel/ <br> <hr>
+- [x] 1st Goal: 100K
+- [ ] 2nd Goal: 120K
+- [ ] 3rd Goal: 130K
+- [ ] 4th Goal: 150K
+<hr>
 
 | Date       | Total Wishlist | Added That Day |
 |:-----------|---------------:|---------------:|
