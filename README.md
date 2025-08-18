@@ -1,6 +1,6 @@
 Wishlist: https://store.steampowered.com/app/3139440/GunZ_The_Duel/ <br> <hr>
 - [x] 1st Goal: 100K
-- [ ] 2nd Goal: 120K (10k more)
+- [ ] 2nd Goal: 120K (9,228)
 - [ ] 3rd Goal: 130K
 - [ ] 4th Goal: 150K
 <hr>
