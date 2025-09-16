@@ -1,6 +1,6 @@
 Wishlist: https://store.steampowered.com/app/3139440/GunZ_The_Duel/ <br> <hr>
 - [x] 1st Goal: 100K
-- [ ] 2nd Goal: 120K (4,272)
+- [ ] 2nd Goal: 120K (3,393)
 - [ ] 3rd Goal: 130K
 - [ ] 4th Goal: 150K
 <hr>
@@ -318,3 +318,7 @@ Wishlist: https://store.steampowered.com/app/3139440/GunZ_The_Duel/ <br> <hr>
 | 2025-09-10 |        115,496 |            160 |
 | 2025-09-11 |        115,639 |            143 |
 | 2025-09-12 |        115,728 |            89 |
+| 2025-09-13 |        116,100 |            372 |
+| 2025-09-14 |        116,305 |            205 |
+| 2025-09-15 |        116,545 |            240 |
+| 2025-09-16 |        116,607 |            62 |
